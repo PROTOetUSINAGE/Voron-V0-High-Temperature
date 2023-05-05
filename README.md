@@ -10,7 +10,7 @@ By accident, I maybe design the Smallest High Temp 3D Printer.
 
 <img src="./Images/Voron_V0_HT_CAD001.PNG">
 
-<img src="./Melting_Timelapse_PLA_Benchy.webp">
+<img src="./Images/Melting_Timelapse_PLA_Benchy.webp">
 
 
 
