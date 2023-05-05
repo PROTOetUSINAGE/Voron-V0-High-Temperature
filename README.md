@@ -1,14 +1,16 @@
 # Voron_V0_High_Temperature
 
 The idea  was to make a Voron V0 with the capability of printing high temperature materials like PEI, PEEK ...
+
 A lot of rework was made to be able to fit everything.
 
 I don't even know if we can still call it a Voron V0.
+
 By accident, I maybe design the Smallest High Temp 3D Printer.
 
-<img src="./IMG/Voron_V0_HT_CAD001.PNG">
+<img src="./Images/Voron_V0_HT_CAD001.PNG">
 
-## Ceracteristics :
+## Caracteristics :
 
 - Print volume : 115x115x115mm( a little bits maller than a V0 )
 - Max speed : 500mm/s at 20000mm/s² acceleration
@@ -39,4 +41,4 @@ By accident, I maybe design the Smallest High Temp 3D Printer.
 
 Around 800hr was needed to make the first example.
 
-If you want to discuss of the build : [https://discord.gg/F5MsdQHd](https://discord.gg/F5MsdQHd)
+If you want to discuss of the build : [Discord](https://discord.com/channels/840596987522056232/1103065458917261322)
