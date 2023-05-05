@@ -50,4 +50,4 @@ Around 800hr was needed to make the first example.
 
 If you want to discuss of the build : [Discord](https://discord.com/channels/840596987522056232/1103065458917261322)
 
-Disclaimer : This build is not supported by any mean by Voron Design 
+Disclaimer : This build is not supported by Voron Design 
