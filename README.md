@@ -9,7 +9,9 @@ I don't even know if we can still call it a Voron V0.
 By accident, I maybe design the Smallest High Temp 3D Printer.
 
 <img src="./Images/Voron_V0_HT_CAD001.PNG">
-<img src="./Images/Melting_Timelapse_PLA_Benchy.gif">
+
+<img src="./Melting_Timelapse_PLA_Benchy.webp">
+
 
 
 
