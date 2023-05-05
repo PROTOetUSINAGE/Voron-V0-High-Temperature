@@ -45,7 +45,7 @@ By accident, I maybe design the Smallest High Temp 3D Printer.
 - Almost same fooprint as the V0 230x300mm
 
 <img src="./Images/Voron_V0_HT_1.jpg" width="800">
-<img src="./Images/Voron_V0_HT_2.jpg" width="800">
+<img src="./Images/Voron_V0_HT (1).JPG" width="800">
 <img src="./Images/Voron_V0_HT_3.jpg" width="800">
 
 Around 800hr was needed to make the first example.
