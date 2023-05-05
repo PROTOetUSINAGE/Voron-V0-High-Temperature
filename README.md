@@ -6,7 +6,7 @@ A lot of rework was made to be able to fit everything.
 I don't even know if we can still call it a Voron V0.
 By accident, I maybe design the Smallest High Temp 3D Printer.
 
-<img src="./IMG/Voron_V0_HT_CAD001">
+<img src="./IMG/Voron_V0_HT_CAD001.PNG">
 
 ## Ceracteristics :
 
