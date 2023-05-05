@@ -39,7 +39,7 @@ By accident, I maybe design the Smallest High Temp 3D Printer.
 - The printer weighs 10kg ( which is a lot for it size )
 - Almost same fooprint as the V0 230x300mm
 
-<img src="./Images/Voron_V0_HT (109).jpg">
+<img src="./Images/Voron_V0_HT_1.jpg" width="800">
 Around 800hr was needed to make the first example.
 
 If you want to discuss of the build : [Discord](https://discord.com/channels/840596987522056232/1103065458917261322)
