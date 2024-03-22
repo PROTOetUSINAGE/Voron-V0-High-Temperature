@@ -17,7 +17,7 @@ By accident, I maybe design the Smallest High Temp 3D Printer.
 
 ## Caracteristics :
 
-- Print volume : 115x115x115mm( a little bits maller than a V0 )
+- Print volume : 115x115x115mm( a little bits smaller than a V0 )
 - Max speed : 500mm/s at 20000mm/s² acceleration
 - Max printing speed : around 250mm/s
 - Duet3D mini 5+ control board
